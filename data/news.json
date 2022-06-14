@@ -1,0 +1,39 @@
+{
+    "news": [
+    {
+        "title": "Antitumor Properties of Curcumin in Breast Cancer Based on Preclinical Studies.",
+        "desc": "Breast cancer is one of the most common neoplasms among women. Anticancer strategies using natural formulations and phytotherapies are promising antitumor treatment alternatives.",
+        "img": "https://img.freepik.com/free-photo/breast-cancer-awareness-woman-pink-t-shirt-with-satin-pink-ribbon-her-chest-supporting-symbolbreast-cancer-awareness_1150-18882.jpg?t=st=1655213667~exp=1655214267~hmac=75aa1c3008fe7c3a49abff5f75ea66f9afdf98f4fb92c82c110d3230145b0819&w=1380",
+        "date": "Jun 14 2022",
+        "href": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9099919/"
+    },    
+    {
+        "title": "The Potential of Epigallocatechin Gallate (EGCG) in Targeting Autophagy for Cancer Treatment.",
+        "desc": "Green tea is a widely used beverage with healthy effects on several diseases, including cancer. The bioactive compounds of green tea are mainly catechins, and epigallocatechin-gallate (EGCG) is the most abundant and biologically active among them.",
+        "img": "https://images.unsplash.com/photo-1601831753677-01f960be19eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "date": "Jun 14 2022",
+        "href": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9181147/"
+    },
+    {
+        "title": "New Perspectives on the Effect of Dandelion.",
+        "desc": "Dandelion (Taraxacum officinale) is also a good source of secondary metabolites, such as phenolic compounds. The chemical content of dandelion has been detailed in a recent review, together with its varied antibacterial, anti-inflammatory, cytotoxic, and diuretic properties.",
+        "img": "https://images.unsplash.com/photo-1599811720507-3754ff02cd0b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80",
+        "date": "Jun 14 2022",
+        "href": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9002813/"
+    },     
+    {
+        "title": "Yoga for weight loss: Benefits beyond burning calories",
+        "desc": "Yoga can also help you burn calories, as well as increase your muscle mass and tone. There is good research that yoga may help you manage stress, improve your mood, curb emotional eating, and create a community of support.",
+        "img": "https://images.unsplash.com/photo-1616699002805-0741e1e4a9c5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "date": "May 7 2022",
+        "href": "https://www.health.harvard.edu/blog/yoga-for-weight-loss-benefits-beyond-burning-calories-202112062650?utm_content=buffer7af8e&utm_medium=social&utm_source=linkedin&utm_campaign=hhp"
+    },
+    {
+        "title": "A randomized trial of comparing video telecare education vs in-person education on dietary regimen compliance in patients with type 2 diabetes mellitus.",
+        "desc": "Video tele-education was just as effective as in-person educational method on dietary regimen compliance among patients with T2DM in a three-month period.",
+        "img": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "date": "May 4 2022",
+        "href": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9063130/"
+    }
+    ]
+}
