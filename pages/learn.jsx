@@ -183,7 +183,7 @@ const Learn = () => {
                 <div className="max-w-xl text-center sm:text-left">
                   <h1 className="text-3xl font-extrabold sm:text-4xl">
                     Take Control
-                    <strong className="font-extrabold text-rose-700 sm:block ml-2 sm:ml-0">
+                    <strong className="font-extrabold text-red-700 sm:block ml-2 sm:ml-0">
                       Over Your Health
                     </strong>
                   </h1>
@@ -191,7 +191,7 @@ const Learn = () => {
                   <p className="max-w-lg mt-4 sm:leading-relaxed sm:text-xl">
                   Being mindful of your food choices, relieving stress, being physically active, avoiding dangerous
                   substance use, getting enough sleep, and having an emotional support system in your life are 
-                  <span className="font-bold text-rose-700 mx-2">just what the doctor prescribe</span>
+                  <span className="font-bold text-red-700 mx-2">just what the doctor prescribe</span>
                   to prevent, treat, and even reverse chronic diseases and certain autoinflammatory conditions.
                   </p>
               </div>

@@ -115,6 +115,7 @@ const Footer = () => {
 
                 <div className="mt-8 font-semibold">
                 <p>Material for educational purposes only. It is not medical advice. Consult your doctor.</p>    
+                <p>Before taking any medications, over the counter drugs, supplements or herbs, consult a physician for a thorough evaluation.</p>
                 </div>
                 
             </div>
