@@ -36,23 +36,29 @@ export default function Home() {
           </a>
           </Link>
           
-
-          <a href="/clinimetric" className={styles.card}>
+          <Link href="/clinimetric">
+          <a className={styles.card}>
             <h2>Clinimetrics &rarr;</h2>
             <p>Objective measurement tools.</p>
           </a>
-
-          <a href="/recommendation" className={styles.card}>
+          </Link>
+          
+          <Link href="/recommendation">
+          <a className={styles.card}>
             <h2>Recommendations &rarr;</h2>
             <p>
               Healthy tips for a better life.
             </p>
           </a>
-
-          <a href="/news" className={styles.card}>
+          </Link>
+          
+          <Link href="/news">
+          <a className={styles.card}>
             <h2>News &rarr;</h2>
             <p>Find news and articles about healthy behaviors.</p>
           </a>
+          </Link>
+          
         </div>
       </main>
       </div>

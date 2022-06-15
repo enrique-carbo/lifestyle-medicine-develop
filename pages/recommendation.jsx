@@ -65,7 +65,7 @@ const Recommendation = () => {
                     <p className="mt-4 text-gray-600">
                     General recommendations include, but are not limited to, various changes in diet,
                     toxic habits, physical exercise, weight control and emotional and mental well being, among others. For specific
-                    medical conditions or different stages of an individual's life, there are other recommendations, occasionally,
+                    medical conditions or different stages of an individual&apos;s life, there are other recommendations, occasionally,
                     there are variations of the general ones.
                     </p>
                     </div>
