@@ -1,4 +1,3 @@
-import Link from "next/link"
 import classnames from "classnames"
 
 
@@ -12,15 +11,11 @@ const Button = ({href, title, bgColor, borderColor, hoverColorStr}) => {
     )
     
     return ( 
-
+        <a href= {href} target="_blank" rel="noopener noreferrer">
         <button className={classStr}>
-            <Link href= {href}>
-            <a>
-                <span className=" text-sm font-medium"> { title } </span>
-                
-            </a>
-        </Link>
+            <span className=" text-sm font-medium"> { title } </span>
         </button>
+        </a>
         
      );
 }

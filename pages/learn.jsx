@@ -90,7 +90,9 @@ const Learn = () => {
                   connection.
                   </p>
 
-                  <Button href="/" title="Learn" bgColor="bg-emerald-600" borderColor="border-emerald-600" hoverColorStr="hover:text-emerald-600"/>
+                  <Button 
+                  href="https://enrique-carbo.github.io/lifestyle-clinimetrics/home" 
+                  title="Learn" bgColor="bg-emerald-600" borderColor="border-emerald-600" hoverColorStr="hover:text-emerald-600"/>
                 </div>
 
                 <div className="grid grid-cols-2 gap-4 sm:grid-cols-3">

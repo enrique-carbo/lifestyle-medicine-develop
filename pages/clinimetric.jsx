@@ -1,6 +1,9 @@
 import Layout from "../components/layout"
 import Image from "next/image";
 
+//Components
+import Button from "../components/button"
+
 const Clinimetry = () => {
     return (
         <Layout title="LM | Clinimetry">
@@ -53,6 +56,8 @@ const Clinimetry = () => {
                                 The strong emphasis on evidence-based medicine requires the value of clinical interventions to be
                                 shown empirically, which implies measurement of outcomes.
                                 </p>
+
+                                <Button href="https://enrique-carbo.github.io/lifestyle-clinimetrics/tools" title="Tools" bgColor="bg-emerald-600" borderColor="border-emerald-600" hoverColorStr="hover:text-emerald-600"/>
                             </div>
                         </div>
                     </div>
