@@ -48,6 +48,13 @@ const Footer = () => {
                     interventions on mortality, morbidity and healthcare costs are more than sufficient incentives for interest
                     in lifestyle medicine. 
                     </p>
+                    <p className="mt-4">
+                    I would like to thank 
+                    <a href="https://www.freepik.com" rel="noreferrer" target="_blank"> Freepik</a>, 
+                    <a href="https://unsplash.com" rel="noreferrer" target="_blank"> Unsplash</a> and 
+                    <a href="https://www.pexels.com" rel="noreferrer" target="_blank"> Pexels </a> 
+                    for the images and video.
+                    </p>
                    
                                         
                 </div>
